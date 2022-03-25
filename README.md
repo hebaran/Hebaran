@@ -1,5 +1,4 @@
 ## Olá, eu sou o Heitor Rangel
-
 <div>
   <a href="https://github.com/Hebaran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hebaran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
