@@ -8,11 +8,11 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hebaran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Hebaran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <!-- <img align="center" alt="Hebaran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Hebaran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hebaran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hebaran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Hebaran-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/343567823471116298/0aac444432262e0f697712f16d43ae64.png?size=4096/">
+  <img align="right" alt="Hebaran-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/343567823471116298/0aac444432262e0f697712f16d43ae64.png?size=4096/"> -->
 </div>
   
 ##
