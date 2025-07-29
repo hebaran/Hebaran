@@ -1,14 +1,10 @@
 ### Olá, me chamo Heitor Rangel.
 
 <p align="left"> 
-  - 🔭 Atualmente estou focado em aprofundar meus conhecimentos em <strong>Python</strong> e Engenharia de Software.<br>
-  - 🌱 Aprendendo sobre Programação Orientada a Objetos, Git, e melhores práticas de desenvolvimento.<br>
-  - ⚡ Curiosidade: Gosto de criar pequenos jogos e scripts para automatizar tarefas!
+  Atualmente estou focado em aprofundar meus conhecimentos em <strong>Python</strong> e Engenharia de Software.<br>
 </p>
 
 <br>
-
-### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
   <a href="https://skillicons.dev">
@@ -28,8 +24,6 @@
 </div>
 
 <br>
-
-### 📫 Como me encontrar:
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/heitor-rangel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
