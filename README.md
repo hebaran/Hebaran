@@ -8,7 +8,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img height="40em" src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
+    <img height="35em" src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
   </a>
 </div>
 
