@@ -1,27 +1,36 @@
-## Olá, eu sou o Heitor Rangel
+### Olá, me chamo Heitor Rangel!
+
+<p align="left"> 
+  - 🔭 Atualmente estou focado em aprofundar meus conhecimentos em <strong>Python</strong> e Engenharia de Software.<br>
+  - 🌱 Aprendendo sobre Programação Orientada a Objetos, Git, e melhores práticas de desenvolvimento.<br>
+  - ⚡ Curiosidade: Gosto de criar pequenos jogos e scripts para automatizar tarefas!
+</p>
+
+<br>
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,replit" />
+  </a>
+</div>
+
+<br>
+
+### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/Hebaran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hebaran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaran&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hebaran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaran&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Hebaran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- <img align="center" alt="Hebaran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Hebaran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Hebaran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hebaran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Hebaran-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/343567823471116298/0aac444432262e0f697712f16d43ae64.png?size=4096/"> -->
-</div>
-  
-##
+<br>
 
-<div> 
-  <!-- <a href="https://www.youtube.com/channel/UCPQWu_eFiMGEl2etAe_DPug" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/heitor_rangel1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/hebaran" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Jxgr6PKZt3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:contatoheitorrangel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 📫 Como me encontrar:
+
+<div align="left"> 
   <a href="https://www.linkedin.com/in/heitor-rangel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
