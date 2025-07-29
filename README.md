@@ -1,7 +1,7 @@
 ### Olá, me chamo Heitor Rangel.
 
 <p align="left"> 
-  Atualmente estou focado em aprofundar meus conhecimentos em <strong>Python</strong> e Engenharia de Software.<br>
+  Atualmente estou focado em aprofundar meus conhecimentos em Programação.<br>
 </p>
 
 <br>
