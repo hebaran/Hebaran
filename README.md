@@ -20,12 +20,14 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <a href="https://github.com/Hebaran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hebaran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaran&layout=compact&langs_count=7&theme=dracula"/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hebaran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaran&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
 
 <br>
 
