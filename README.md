@@ -1,4 +1,4 @@
-### Olá, me chamo Heitor Rangel!
+### Olá, me chamo Heitor Rangel.
 
 <p align="left"> 
   - 🔭 Atualmente estou focado em aprofundar meus conhecimentos em <strong>Python</strong> e Engenharia de Software.<br>
@@ -12,7 +12,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,replit" />
+    <img height="40em" src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
   </a>
 </div>
 
