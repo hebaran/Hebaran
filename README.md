@@ -1,4 +1,4 @@
-### Olá, me chamo Heitor Rangel.
+## Olá, me chamo Heitor Rangel.
 
 Atualmente estou focado em aprofundar meus conhecimentos em Programação.<br>
 
