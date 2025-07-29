@@ -15,7 +15,7 @@ Atualmente estou focado em aprofundar meus conhecimentos em Programação.<br>
 <div align="center">
   <a href="https://github.com/Hebaran">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Hebaran&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaran&layout=compact&langs_count=7&bg_color=151515&title_color=fff&text_color=9f9f9f"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hebaran&layout=compact&langs_count=7&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97"/>
   </a>
 </div>
 
