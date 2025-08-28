@@ -6,7 +6,7 @@ Atualmente estou focado em aprofundar meus conhecimentos em Programação.<br>
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img height="35em" src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode"/>
+    <img height="35em" src="https://skillicons.dev/icons?i=python,cs,dotnet,javascript,html,css,git,github,vscode"/>
   </a>
 </div>
 
